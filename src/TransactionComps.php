@@ -2,6 +2,6 @@
 
 namespace Yega\Xval;
 
-class Transaction {
+class TransactionComps {
     
 }
